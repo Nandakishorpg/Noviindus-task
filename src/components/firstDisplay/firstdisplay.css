@@ -1,0 +1,113 @@
+.display-text {
+  position: absolute;
+  width: 671px;
+  height: 157px;
+  left: 135px;
+  top: 247px;
+  font-family: "Poppins", sans-serif;
+  font-style: normal;
+  font-weight: 600;
+  text-align: left;
+  line-height: 78px;
+  font-size: 57px;
+  color: #242426;
+}
+.display-text2 {
+  position: absolute;
+  width: 870px;
+  height: 84px;
+  left: 135px;
+  top: 430px;
+
+  font-family: "Poppins";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 19px;
+  text-align: left;
+  line-height: 39px;
+
+  color: #313131;
+}
+.hero-slide {
+  position: absolute;
+  width: 472px;
+  height: 474px;
+  left: 799px;
+  top: 226px;
+}
+
+.getstarted-btn {
+  border-radius: 5px;
+  border: 0px;
+  color: white;
+
+  position: absolute;
+  width: 214px;
+  height: 61px;
+  left: 135px;
+  top: 570px;
+
+  background: linear-gradient(90deg, #ffdb00 -13.32%, #ff8900 105.84%);
+  border-radius: 18px;
+}
+
+.market-view {
+  position: absolute;
+  left: 267px;
+  width: 202px;
+  height: 52px;
+  right: 74.78%;
+  top: 725px;
+  bottom: 38.21%;
+
+  background: #ffffff;
+}
+
+.Firstdisplay {
+  position: relative;
+}
+.market-container {
+  background-color: white;
+}
+
+.market-view {
+  left: 135px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  padding-left: 18px;
+
+  position: absolute;
+
+  width: 202px;
+  height: 52px;
+  right: 74.78%;
+  top: 729px;
+  bottom: 38.21%;
+  border-left: 0.5px solid #c4c4c4;
+  border-right: 0.5px solid #c4c4c4;
+  border-top: 0.5px solid #c4c4c4;
+  border-radius: 5px;
+
+  background: #ffffff;
+}
+.price-img-container {
+  padding-left: 18px;
+  display: flex;
+  align-items: center;
+  width: 1170px;
+  height: 68px;
+  border-left: 0.5px solid #c4c4c4;
+  border-right: 0.5px solid #c4c4c4;
+  border-bottom: 0.5px solid #c4c4c4;
+  border-top: 0.5px solid#C4C4C4;
+  border-radius: 5px;
+  background-color: white;
+  position: absolute;
+  top: 787px;
+  left: 135px;
+}
+
+.price-img {
+  width: 1149px;
+}
